@@ -1,6 +1,10 @@
 "# orbbbb" 
 "# orbbbb" 
+
+Sử dụng React Native - Redux , Expo , Nodejs - MongoDb 
+
 1 số ảnh minh họa , bản thử thôi , ko đẹp mắt lắm :>
+
 
 ![z2433147711937_262601d305a5d81ec623db46d304629d](https://user-images.githubusercontent.com/47845610/114580836-68683d00-9ca9-11eb-9f42-6600e2758842.jpg) <br>
 ![z2433147717593_86cafb8274e786b0ce6a52a3f78e8db6](https://user-images.githubusercontent.com/47845610/114580844-6900d380-9ca9-11eb-9435-bf96d728537e.jpg) <br>
